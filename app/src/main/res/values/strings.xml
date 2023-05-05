@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">airplane-ticket</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Repülőjegy foglaló</string>
+    <string name="second_fragment_label">Nem tudom mi legyen a neved</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Meghalok a programozás közben :)
+    </string>
+</resources>
